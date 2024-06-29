@@ -1,6 +1,6 @@
 # HCI School Portfolio
 This repository serves as the final project for LinTech's HCI course. It contains all the necessary files for the project, including a user manual, a Coursera certificate, and the team's logo. 
-The [User Manual](https://github.com/jomermandap/HCI_School_Portfolio/blob/main/USER_MANUAL.md) provides detailed instructions for using the project and features a user-friendly interface designed to demonstrate the team's understanding of HCI principles.
+The [User Manual](https://github.com/zanyuu/HCI_Portfolio/blob/main/USER_MANUAL.md) provides detailed instructions for using the project and features a user-friendly interface designed to demonstrate the team's understanding of HCI principles.
 
 ## The Logo
 The team's logo can be accessed inside the **Assets** folder.The geometric symbol in a logo can symbolize unity, innovation, connectivity, precision, and growth reflecting the brand's values and vision.
